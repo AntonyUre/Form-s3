@@ -7,7 +7,7 @@
 }
 .landing{
     height: 525px;
-    background-image: url(/IMG/land.jpg);
+    background-image: url(img/land.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
